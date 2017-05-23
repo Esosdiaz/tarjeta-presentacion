@@ -1,0 +1,72 @@
+.contenedor {
+	width: 450px;
+	height: 260px;
+	background: grey;
+	background-image: url('../img/fondo.png')
+}
+
+.contenedor-gris {
+    width: 168px;
+    height: 0;
+    border-bottom: 260px solid #3C3C3B;
+    border-left: 260px solid transparent;
+    position: relative;
+    top: 0;
+    left: 69px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	text-align: right;
+	line-height: 100%;
+}
+h1 {
+	font-size: 1.2rem;
+    margin-bottom: .7em;
+    color: whitesmoke;
+    position: relative;
+    top: -248px;
+    left: 25px;
+
+}
+h2 {
+    font-size: 0.7rem;
+    color: #FCB425;
+    position: relative;
+    top: -255px;
+    left: 27px;
+}
+.direccion {
+	font-size: 0.8rem;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    text-align: right;
+    color: whitesmoke;
+    line-height: 95%;
+    max-width: 250px;
+    position: absolute;
+    top: 125px;
+    right: 270px;
+}
+.logo1 {
+    content: '';
+    position: relative;
+    background-image: url('../img/Laboratoria_Isotipo.png');
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    left: 255px;
+    bottom: -4px;
+}
+
+.logo2 {
+	background-image: url(../img/Laboratoria_Logo.png);
+    background-position-y: top;
+    background-size: 170px, cover;
+    background-repeat: no-repeat;
+    background-position-x: 110px, left;
+    width: 600px;
+    height: 360px;
+    position: relative;
+    top: -261px;
+    left: -305px;
+}
