@@ -26,7 +26,7 @@ h1 {
     color: whitesmoke;
     position: relative;
     top: -248px;
-    left: 25px;
+    left: 7px;
 
 }
 h2 {
@@ -34,7 +34,7 @@ h2 {
     color: #FCB425;
     position: relative;
     top: -255px;
-    left: 27px;
+    left: 7px;
 }
 .direccion {
 	font-size: 0.8rem;
@@ -43,9 +43,9 @@ h2 {
     color: whitesmoke;
     line-height: 95%;
     max-width: 250px;
-    position: absolute;
-    top: 125px;
-    right: 270px;
+    position: relative;
+    top: -222px;
+    right: -202px;
 }
 .logo1 {
     content: '';
